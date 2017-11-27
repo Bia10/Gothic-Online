@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/go_background.png</file>
+        <file>img/go_logo.png</file>
+        <file>go.css</file>
+        <file>img/go_widget.png</file>
+        <file>Style/img/checkbox.png</file>
+        <file>Style/img/down_arrow.png</file>
+        <file>Style/img/up_arrow.png</file>
+        <file>Style/img/left_arrow.png</file>
+        <file>Style/img/right_arrow.png</file>
+        <file>img/go_splash.png</file>
+    </qresource>
+</RCC>

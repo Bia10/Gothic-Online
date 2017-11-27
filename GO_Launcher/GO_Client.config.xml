@@ -1,0 +1,9 @@
+<!-- Gothic Online automatic generated config file -->
+<GO_Config>
+	<playerName>Nickname</playerName>
+	<serverIp>127.0.0.1</serverIp>
+	<serverPort>60000</serverPort>
+	<startWorld>WORLD.ZEN</startWorld>
+	<playerInstance>PC_HERO</playerInstance>
+	<clientScript>client.gm</clientScript>
+</GO_Config>

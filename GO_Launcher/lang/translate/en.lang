@@ -1,0 +1,97 @@
+﻿# Language
+LANG_NAME			English
+ENABLE				ON
+DISABLE				OFF
+
+# Launcher common
+L_INTERNET			Internet
+L_FAVORITE			Favorite
+L_ADDONS			Addons
+L_OPTIONS			Options
+L_REFRESH			Refresh
+L_NICKNAME			<b>Nickname:</b>
+L_INFORMATION		Information
+L_HOSTNAME			Hostname
+L_IP				IP
+L_PORT				Port
+L_PLAYERS			Players
+L_VERSION			Version
+L_PING				Ping
+
+# Favorite
+F_ADD				Add
+F_EDIT				Edit
+F_REMOVE			Remove
+F_OK				Ok
+F_ADRESS			IP:Port
+F_WADD				Favorite: Add
+F_WREMOVE			Favorite: Remove
+F_ERR_01			Please enter IP adress
+F_ERR_02			IP address entered is invalid!
+F_ERR_03			Port entered is invalid!
+
+# Internet
+I_MASTER_LIST		Retrieving list from master server...
+I_MASTER_ERROR		Cannot connect with the master server!
+I_MASTER_CONNECTING	Connecting to Master Server
+
+# Network
+N_NAME				Network
+N_RAKNET_ERROR		Cannot init <b>RakNet</b>
+
+# Addons
+A_ERR_01			Cannot enable addon! Open GO Launcher with admin rights!
+A_ERR_02			Cannot disable addon! Open GO Launcher with admin rights!
+
+# Options
+O_VIDEO				Video
+O_RES_X				Resolution X:
+O_RES_Y				Resolution Y:
+O_WINDOW_MODE		Window mode
+O_GBOX_SOUND		Sound
+O_ESOUND			Enable sound
+O_EMUSIC			Enable music
+O_SOUND				<b>Sound:</b>
+O_MUSIC				<b>Music:</b>
+O_SAVE				Save
+
+# Server manager
+SM_DESCRIPTION		<b>Description:</b>
+SM_HOSTNAME			<b>Hostname:</b> 
+SM_IP				<b>IP:</b> 
+SM_PORT				<b>Port:</b> 
+SM_WORLD			<b>World:</b> 
+SM_VERSION			<b>Version:</b> 
+SM_PLAYERS			<b>Players:</b> 
+SM_PING				<b>Ping:</b> 
+SM_SERVER_OFFLINE	Server is offline!
+SM_SERVER_FULL		Server is full!
+SM_WRONG_VERSION	Incorrect version.
+
+# Downloader
+D_NAME				Downloader
+D_TOTAL_SIZE		Total size: %1/%2 %3
+D_FILE_SIZE			File size: %1/%2 %3
+D_DOWNLOAD_FILE 	Downloading (%1/%2): <b>%3</b>
+D_SAVE_FILE			Saving file (%1/%2): <b>%3</b>
+D_QUIT				Wait a moment, downloader quits.
+D_CONNECT_FAILED	Cannot connect with the server!
+D_CHECKING_FILES	Checking files, please wait...
+
+# Version
+V_NEW_AVAILABLE		New version is available <b>%1</b>.<br><a href='%2'><b>Download</b></a>
+V_INFORMATION		<b>Information:</b>
+
+# Injector
+IR_ERR_01			Cannot inject %1<br>Open GO Launcher with admin rights!
+IR_ERR_02			Cannot open process %1
+
+# Status bar
+SB_READY			Ready
+SB_NO_SERVERS		There are no available servers
+SB_AVAIABLE_SERVERS	Available servers: %1
+SB_CHECKING_SERVERS	Checking servers %1 of %2
+
+# Config
+C_NAME				Config
+C_WRITE_ERROR		Failed to write config file!<br>Increase your permission.

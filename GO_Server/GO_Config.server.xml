@@ -1,0 +1,9 @@
+<!-- Gothic Online automatic generated config file -->
+<GO_Config>
+	<serverName>Default server name</serverName>
+	<serverPort>28970</serverPort>
+	<maxSlots>32</maxSlots>
+	<adminPassword>password</adminPassword>
+	<serverScript>server-main.gm</serverScript>
+	<clientScript>client-main.gm</clientScript>
+</GO_Config>

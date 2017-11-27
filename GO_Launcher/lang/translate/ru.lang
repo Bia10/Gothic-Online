@@ -1,0 +1,97 @@
+﻿# Language
+LANG_NAME			Russian
+ENABLE				ON
+DISABLE				OFF
+
+# Launcher common
+L_INTERNET			Интернет
+L_FAVORITE			Избранное
+L_ADDONS			Аддоны
+L_OPTIONS			Опции
+L_REFRESH			Обновить
+L_NICKNAME			<b>Ник:</b>
+L_INFORMATION		Информация
+L_HOSTNAME			Название
+L_IP				IP
+L_PORT				Порт
+L_PLAYERS			Игроки
+L_VERSION			Версия
+L_PING				Пинг
+
+# Favorite
+F_ADD				Добавить
+F_EDIT				Редактировать
+F_REMOVE			Удалить
+F_OK				Ок
+F_ADRESS			IP:Port
+F_WADD				Избранное: Добавить
+F_WREMOVE			Избранное: Удалить
+F_ERR_01			Пожалуйста, введите IP-адрес
+F_ERR_02			IP-адрес введен неверно!
+F_ERR_03			Порт введен неверно!
+
+# Internet
+I_MASTER_LIST		Получение списка серверов с главного сервера...
+I_MASTER_ERROR		Не удается подключиться к главному серверу!
+I_MASTER_CONNECTING	Подключение к главному серверу...
+
+# Network
+N_NAME				Network
+N_RAKNET_ERROR		Не удается инициализировать <b>RakNet</b>
+
+# Addons
+A_ERR_01			Не удается включить аддон! Запустите GO с правами Администратора!
+A_ERR_02			Не удается отключить аддон! Запустите GO с правами Администратора!
+
+# Options
+O_VIDEO				Видео
+O_RES_X				Разрешение X:
+O_RES_Y				Разрешение Y:
+O_WINDOW_MODE		Играть в окне
+O_GBOX_SOUND		Звук
+O_ESOUND			Включить звуки
+O_EMUSIC			Включить музыку
+O_SOUND				<b>Звуки:</b>
+O_MUSIC				<b>Музыка:</b>
+O_SAVE				Сохранить
+
+# Server manager
+SM_DESCRIPTION		<b>Описание:</b>
+SM_HOSTNAME			<b>Название:</b> 
+SM_IP				<b>IP:</b> 
+SM_PORT				<b>Порт:</b> 
+SM_WORLD			<b>Мир:</b> 
+SM_VERSION			<b>Версия:</b> 
+SM_PLAYERS			<b>Игроки:</b> 
+SM_PING				<b>Пинг:</b> 
+SM_SERVER_OFFLINE	Сервер отключен!
+SM_SERVER_FULL		Сервер переполнен!
+SM_WRONG_VERSION	Неправильное версия.
+
+# Downloader
+D_NAME				Загрузчик
+D_TOTAL_SIZE		Общий размер: %1/%2 %3
+D_FILE_SIZE			Размер файла: %1/%2 %3
+D_DOWNLOAD_FILE 	Загрузка (%1/%2): <b>%3</b>
+D_SAVE_FILE			Сохранение файла (%1/%2): <b>%3</b>
+D_QUIT				Подождите, загрузчик завершает работу.
+D_CONNECT_FAILED	Не удается подключиться к серверу!
+D_CHECKING_FILES	Проверка файлов, пожалуйста, подождите...
+
+# Version
+V_NEW_AVAILABLE		Новая версия доступна <b>%1</b>.<br><a href='%2'><b>Скачать</b></a>
+V_INFORMATION		<b>Информация:</b>
+
+# Injector
+IR_ERR_01			Невозможно ввести %1<br>Откройте GO с правами администратора!
+IR_ERR_02			Не удается открыть процесс %1
+
+# Status bar
+SB_READY			Готово
+SB_NO_SERVERS		Нет доступных серверов
+SB_AVAIABLE_SERVERS	Доступные сервера: %1
+SB_CHECKING_SERVERS	Проверка сервера %1 из %2
+
+# Config
+C_NAME				Конфиг
+C_WRITE_ERROR		Не удалось записать конфиг файл!<br>Увеличьте разрешение.

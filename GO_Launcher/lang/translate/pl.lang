@@ -1,0 +1,97 @@
+﻿# Language
+LANG_NAME			Polski
+ENABLE				ON
+DISABLE				OFF
+
+# Launcher common
+L_INTERNET			Internet
+L_FAVORITE			Ulubione
+L_ADDONS			Dodatki
+L_OPTIONS			Opcje
+L_REFRESH			Odśwież
+L_NICKNAME			<b>Nazwa:</b>
+L_INFORMATION		Informacje
+L_HOSTNAME			Nazwa hosta
+L_IP				IP
+L_PORT				Port
+L_PLAYERS			Gracze
+L_VERSION			Wersja
+L_PING				Ping
+
+# Favorite
+F_ADD				Dodaj
+F_EDIT				Edytuj
+F_REMOVE			Usuń
+F_OK				Ok
+F_ADRESS			IP:Port
+F_WADD				Ulubione: Dodaj
+F_WREMOVE			Ulubione: Usuń
+F_ERR_01			Proszę podać IP!
+F_ERR_02			Wprowadzony adres IP jest niepoprawny!
+F_ERR_03			Wprowadzony port jest niepoprawny!
+
+# Internet
+I_MASTER_LIST		Pobieranie listy z głównego serwera...
+I_MASTER_ERROR		Nie można połączyć z głównym serwerem!
+I_MASTER_CONNECTING	Łączenie z Głównym Serwerem
+
+# Network
+N_NAME				Sieć
+N_RAKNET_ERROR		Nie można zinicjalizować biblioteki <b>RakNet</b>
+
+# Addons
+A_ERR_01			Nie można włączyć dodatku! Prawdopodobnie brak uprawnień.
+A_ERR_02			Nie można wyłączyć dodatku! Prawdopodobnie brak uprawnień.
+
+# Options
+O_VIDEO				Wideo
+O_RES_X				Rozdzielczość X:
+O_RES_Y				Rozdzielczość Y:
+O_WINDOW_MODE		Tryb okna
+O_GBOX_SOUND		Dźwięki
+O_ESOUND			Włącz dźwięk
+O_EMUSIC			Włącz muzykę
+O_SOUND				<b>Dźwięk:</b>
+O_MUSIC				<b>Muzyka:</b>
+O_SAVE				Zapisz
+
+# Server manager
+SM_DESCRIPTION		<b>Opis:</b>
+SM_HOSTNAME			<b>Nazwa hosta:</b> 
+SM_IP				<b>IP:</b> 
+SM_PORT				<b>Port:</b> 
+SM_WORLD			<b>Świat:</b> 
+SM_VERSION			<b>Wersja:</b> 
+SM_PLAYERS			<b>Gracze:</b> 
+SM_PING				<b>Ping:</b> 
+SM_SERVER_OFFLINE	Serwer jest niedostępny!
+SM_SERVER_FULL		Serwer jest pełny!
+SM_WRONG_VERSION	Niepoprawna wersja.
+
+# Downloader
+D_NAME				Pobieracz
+D_TOTAL_SIZE		Całkowity rozmiar: %1/%2 %3
+D_FILE_SIZE			Rozmiar pliku: %1/%2 %3
+D_DOWNLOAD_FILE 	Pobieranie (%1/%2): <b>%3</b>
+D_SAVE_FILE			Zapisywanie pliku (%1/%2): <b>%3</b>
+D_QUIT				Proszę czekać, pobieracz kończy pracę.
+D_CONNECT_FAILED	Nie można połączyć się z serwerem!
+D_CHECKING_FILES	Sprawdzanie plików, proszę czekać...
+
+# Version
+V_NEW_AVAILABLE		Dostępna jest nowsza wersja <b>%1</b>.<br><a href='%2'><b>Pobierz</b></a>
+V_INFORMATION		<b>Informacje:</b>
+
+# Injector
+IR_ERR_01			Nie można wstrzyknąć %1<br>Prawdopodobnie brak uprawnień.
+IR_ERR_02			Nie można otworzyć procesu %1
+
+# Status bar
+SB_READY			Gotów
+SB_NO_SERVERS		Brak dostępnych serwerów
+SB_AVAIABLE_SERVERS	Dostępne serwery: %1
+SB_CHECKING_SERVERS	Sprawdzanie serwerów %1 z %2
+
+# Config
+C_NAME				Konfiguracja
+C_WRITE_ERROR		Nie można zapisać pliku konfiguracyjnego!<br>Prawdopodobnie brak uprawnień.

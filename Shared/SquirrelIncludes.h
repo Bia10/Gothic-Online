@@ -1,0 +1,12 @@
+#ifndef SQUIRRELINCLUDES_H
+#define SQUIRRELINCLUDES_H
+#include "Squirrel/sq_macro.h"
+#include "Squirrel/include/squirrel.h"
+#include "Squirrel/include/sqstdio.h"
+#include "Squirrel/include/sqstdmath.h"
+#include "Squirrel/include/sqstdstring.h"
+#include "Squirrel/include/sqstdsystem.h"
+#include "Squirrel/include/sqstdblob.h"
+#include "Squirrel/include/sqstdaux.h"
+#include "Squirrel/binmodule/sqimport.h"
+#endif //SQUIRRELINCLUDES_H
